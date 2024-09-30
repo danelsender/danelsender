@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 
 👨‍🔬 Previously, I was a research scientist! I worked on astrophysical fluid dyanmics and planet formation. The list of my publications can be found <a href="https://ui.adsabs.harvard.edu/search/q=author%3Aelsender"> here</a>.
 
-👨‍🎓 Currently, I am learning full-stack development with tools such as React, Django, Node.js, and FastAPI. Alongside this, I am gaining experience in applying machine learning to real world data in a Python workflow (TensorFlow, sklearn PyTorch).
+📝 Currently, I am learning full-stack development with tools such as React, Django, Node.js, and FastAPI. Alongside this, I am gaining experience in applying machine learning to real world data in a Python workflow (TensorFlow, sklearn PyTorch).
+
+👨‍🎓 I have an education in Mathematics (MMath) and Physics (PhD).
 
 ---
 
