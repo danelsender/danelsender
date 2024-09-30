@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <iframe src="https://giphy.com/embed/3ov9jNziFTMfzSumAw" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/embed/3ov9jNziFTMfzSumAw" width="100"/>
 </div>
 <div id="linkedin badge" align="center">
   <a href="https://www.linkedin.com/in/daniel-elsender-4a248b325/">
