@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 <div id="linkedin badge" align="center">
   <a href="https://www.linkedin.com/in/daniel-elsender-4a248b325/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" title="Daniel's LinkedIn profile" alt="LinkedIn Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=danelsender&style=flat-square&color=blue" alt=""/>
   </a>
-</div>
-<div>
-  <img src="https://komarev.com/ghpvc/?username=danelsender&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
