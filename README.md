@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd0cmpsMmZ3YzJ6anpvZDJvYzA2c3B4OTJneWdhbmdjbXJqYzl5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.webp" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd0cmpsMmZ3YzJ6anpvZDJvYzA2c3B4OTJneWdhbmdjbXJqYzl5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.webp" width="300"/>
 </div>
 <div id="linkedin badge" align="center">
   <a href="https://www.linkedin.com/in/daniel-elsender-4a248b325/">
