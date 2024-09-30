@@ -30,3 +30,10 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C lang logo" height="40"/>
+</div>
