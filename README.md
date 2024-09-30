@@ -30,6 +30,13 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
+🛠️ I have primarily worked as a research code developer on state-of-the-art fluid dynamics codes; sphNG, Phantom, Jupiter. These astrophysics simulations are done on high performance computing (HPC) facilities. Alongside this I have worked on the data analysis of large simulation data sets to uncover the secrets within!
+
+👨‍🎓 Currently, I am learning full-stack development with tools such as React, Django, Node.js, and FastAPI.
+
+👨‍🔬 Previously, I was a research scientist! I worked on astrophysical fluid dyanmics and planet formation. The list of my publications can be found <a href="https://ui.adsabs.harvard.edu/search/q=author%3Aelsender"> here</a>.
+
+
 
 ---
 
